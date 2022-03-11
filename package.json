@@ -9,6 +9,7 @@
   "keywords": [],
   "dependencies": {
     "apollo-server": "^3.3.0",
+    "bcryptjs": "2.4.3",
     "graphql": "^15.5.3",
     "sequelize": "6.17.0",
     "sequelize-cli": "6.4.1",
